@@ -3,8 +3,8 @@ package service
 import (
 	"net/http"
 
-	"github.com/case-fold/gizmo/pubsub/kafka"
-	"github.com/case-fold/gizmo/server"
+	"github.com/CASE-fold/gizmo/v2/pubsub/kafka"
+	"github.com/CASE-fold/gizmo/v2/server"
 )
 
 // StreamService offers three endpoints: one to create a new topic in

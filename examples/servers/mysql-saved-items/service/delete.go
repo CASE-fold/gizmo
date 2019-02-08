@@ -3,7 +3,7 @@ package service
 import (
 	"net/http"
 
-	"github.com/case-fold/gizmo/server"
+	"github.com/CASE-fold/gizmo/v2/server"
 	"github.com/gorilla/context"
 )
 

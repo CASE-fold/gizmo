@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/case-fold/gizmo/pubsub"
+	"github.com/CASE-fold/gizmo/v2/pubsub"
 	"github.com/golang/protobuf/proto"
 	"golang.org/x/net/context"
 )

@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/case-fold/gizmo/server"
+	"github.com/CASE-fold/gizmo/v2/server"
 )
 
 func TestPut(t *testing.T) {

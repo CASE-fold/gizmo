@@ -12,7 +12,7 @@ import (
 	"google.golang.org/grpc/credentials/oauth"
 	"google.golang.org/grpc/metadata"
 
-	readinglist "github.com/case-fold/gizmo/examples/servers/reading-list"
+	readinglist "github.com/CASE-fold/gizmo/v2/examples/servers/reading-list"
 )
 
 var (

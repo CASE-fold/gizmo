@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/case-fold/gizmo/examples/servers/mixed/service"
+	"github.com/CASE-fold/gizmo/v2/examples/servers/mixed/service"
 
-	"github.com/case-fold/gizmo/config"
-	"github.com/case-fold/gizmo/server"
+	"github.com/CASE-fold/gizmo/v2/config"
+	"github.com/CASE-fold/gizmo/v2/server"
 )
 
 func main() {

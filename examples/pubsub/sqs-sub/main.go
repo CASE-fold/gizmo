@@ -1,6 +1,6 @@
 package main
 
-import "github.com/case-fold/gizmo/examples/pubsub/sqs-sub/service"
+import "github.com/CASE-fold/gizmo/v2/examples/pubsub/sqs-sub/service"
 
 func main() {
 	service.Init()

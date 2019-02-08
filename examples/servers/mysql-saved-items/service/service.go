@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/case-fold/gizmo/config/mysql"
-	"github.com/case-fold/gizmo/server"
+	"github.com/CASE-fold/gizmo/v2/config/mysql"
+	"github.com/CASE-fold/gizmo/v2/server"
 	"github.com/NYTimes/gziphandler"
 	"github.com/gorilla/context"
 )

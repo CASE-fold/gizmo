@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/case-fold/gizmo/pubsub"
+	"github.com/CASE-fold/gizmo/v2/pubsub"
 
 	"github.com/Shopify/sarama"
 	"github.com/golang/protobuf/proto"

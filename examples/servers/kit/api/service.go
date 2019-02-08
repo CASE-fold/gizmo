@@ -3,13 +3,13 @@ package api
 import (
 	"net/http"
 
-	"github.com/case-fold/gizmo/server/kit"
+	"github.com/CASE-fold/gizmo/v2/server/kit"
 	"github.com/NYTimes/gziphandler"
 	"github.com/go-kit/kit/endpoint"
 	httptransport "github.com/go-kit/kit/transport/http"
 	"google.golang.org/grpc"
 
-	"github.com/case-fold/gizmo/examples/nyt"
+	"github.com/CASE-fold/gizmo/v2/examples/nyt"
 )
 
 type (

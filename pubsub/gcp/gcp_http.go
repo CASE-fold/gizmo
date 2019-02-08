@@ -10,7 +10,7 @@ import (
 	"golang.org/x/oauth2"
 	v1pubsub "google.golang.org/api/pubsub/v1"
 
-	"github.com/case-fold/gizmo/pubsub"
+	"github.com/CASE-fold/gizmo/v2/pubsub"
 )
 
 var _ pubsub.MultiPublisher = &httpPublisher{}

@@ -3,7 +3,7 @@ package aws
 import (
 	"time"
 
-	"github.com/case-fold/gizmo/config/aws"
+	"github.com/CASE-fold/gizmo/v2/config/aws"
 	"github.com/kelseyhightower/envconfig"
 )
 

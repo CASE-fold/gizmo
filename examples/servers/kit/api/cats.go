@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/case-fold/gizmo/server/kit"
+	"github.com/CASE-fold/gizmo/v2/server/kit"
 	google_protobuf "github.com/golang/protobuf/ptypes/empty"
 	ocontext "golang.org/x/net/context"
 
-	"github.com/case-fold/gizmo/examples/nyt"
+	"github.com/CASE-fold/gizmo/v2/examples/nyt"
 )
 
 // GRPC layer, add the service-wide middleware ourselves

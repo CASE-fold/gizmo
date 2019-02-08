@@ -11,7 +11,7 @@ import (
 
 	"cloud.google.com/go/trace"
 
-	"github.com/case-fold/gizmo/server/kit"
+	"github.com/CASE-fold/gizmo/v2/server/kit"
 	"github.com/go-kit/kit/endpoint"
 	httptransport "github.com/go-kit/kit/transport/http"
 	"github.com/pkg/errors"

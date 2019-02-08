@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/case-fold/gizmo/examples/nyt"
-	"github.com/case-fold/gizmo/pubsub"
-	"github.com/case-fold/gizmo/pubsub/aws"
+	"github.com/CASE-fold/gizmo/v2/examples/nyt"
+	"github.com/CASE-fold/gizmo/v2/pubsub"
+	"github.com/CASE-fold/gizmo/v2/pubsub/aws"
 	"github.com/sirupsen/logrus"
 )
 

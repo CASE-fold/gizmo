@@ -1,6 +1,6 @@
 package nyttest
 
-import "github.com/case-fold/gizmo/examples/nyt"
+import "github.com/CASE-fold/gizmo/v2/examples/nyt"
 
 type Client struct {
 	TestGetMostPopular        func(string, string, uint) ([]*nyt.MostPopularResult, error)

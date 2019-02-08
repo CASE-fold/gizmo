@@ -1,4 +1,4 @@
-module github.com/case-fold/gizmo
+module github.com/CASE-fold/gizmo/v2
 
 require (
 	cloud.google.com/go v0.35.1

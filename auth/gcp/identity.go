@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/case-fold/gizmo/auth"
+	"github.com/CASE-fold/gizmo/v2/auth"
 	"github.com/pkg/errors"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/jws"

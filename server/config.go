@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/case-fold/gizmo/config"
+	"github.com/CASE-fold/gizmo/v2/config"
 	"github.com/NYTimes/logrotate"
 	"github.com/gorilla/handlers"
 	"github.com/kelseyhightower/envconfig"

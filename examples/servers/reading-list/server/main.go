@@ -1,8 +1,8 @@
 package main
 
 import (
-	readinglist "github.com/case-fold/gizmo/examples/servers/reading-list"
-	"github.com/case-fold/gizmo/server/kit"
+	readinglist "github.com/CASE-fold/gizmo/v2/examples/servers/reading-list"
+	"github.com/CASE-fold/gizmo/v2/server/kit"
 )
 
 // a tiny main package that simply initializes and initiates the server.

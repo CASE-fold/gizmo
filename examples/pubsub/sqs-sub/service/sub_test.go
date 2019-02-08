@@ -4,11 +4,11 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/case-fold/gizmo/pubsub"
-	"github.com/case-fold/gizmo/pubsub/pubsubtest"
+	"github.com/CASE-fold/gizmo/v2/pubsub"
+	"github.com/CASE-fold/gizmo/v2/pubsub/pubsubtest"
 	"github.com/golang/protobuf/proto"
 
-	"github.com/case-fold/gizmo/examples/nyt"
+	"github.com/CASE-fold/gizmo/v2/examples/nyt"
 )
 
 func TestRun(t *testing.T) {

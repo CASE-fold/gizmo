@@ -9,7 +9,7 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/case-fold/gizmo"
+  name = "github.com/CASE-fold/gizmo/v2"
   packages = ["config","config/metrics","server","server/kit","web"]
   revision = "1c0e1e9ca7a78cccba0be9bbb930543a186591f7"
 

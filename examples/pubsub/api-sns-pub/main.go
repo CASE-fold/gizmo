@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/case-fold/gizmo/config"
-	"github.com/case-fold/gizmo/examples/pubsub/api-sns-pub/service"
-	"github.com/case-fold/gizmo/pubsub/aws"
-	"github.com/case-fold/gizmo/server"
+	"github.com/CASE-fold/gizmo/v2/config"
+	"github.com/CASE-fold/gizmo/v2/examples/pubsub/api-sns-pub/service"
+	"github.com/CASE-fold/gizmo/v2/pubsub/aws"
+	"github.com/CASE-fold/gizmo/v2/server"
 )
 
 func main() {
