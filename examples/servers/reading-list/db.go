@@ -7,7 +7,7 @@ import (
 
 	"cloud.google.com/go/datastore"
 
-	"github.com/NYTimes/gizmo/server/kit"
+	"github.com/case-fold/gizmo/server/kit"
 	"github.com/pkg/errors"
 )
 

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/NYTimes/gizmo/pubsub"
+	"github.com/case-fold/gizmo/pubsub"
 	"github.com/golang/protobuf/proto"
 )
 

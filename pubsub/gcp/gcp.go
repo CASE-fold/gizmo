@@ -6,7 +6,7 @@ import (
 	"time"
 
 	gpubsub "cloud.google.com/go/pubsub"
-	"github.com/NYTimes/gizmo/pubsub"
+	"github.com/case-fold/gizmo/pubsub"
 	"github.com/golang/protobuf/proto"
 	"golang.org/x/net/context"
 	"google.golang.org/api/option"

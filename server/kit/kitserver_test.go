@@ -16,8 +16,8 @@ import (
 	ocontext "golang.org/x/net/context"
 	"google.golang.org/grpc"
 
-	gserver "github.com/NYTimes/gizmo/server"
-	"github.com/NYTimes/gizmo/server/kit"
+	gserver "github.com/case-fold/gizmo/server"
+	"github.com/case-fold/gizmo/server/kit"
 	"github.com/NYTimes/gziphandler"
 )
 

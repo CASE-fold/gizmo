@@ -3,9 +3,9 @@ package service
 import (
 	"net/http"
 
-	"github.com/NYTimes/gizmo/pubsub"
-	"github.com/NYTimes/gizmo/pubsub/aws"
-	"github.com/NYTimes/gizmo/server"
+	"github.com/case-fold/gizmo/pubsub"
+	"github.com/case-fold/gizmo/pubsub/aws"
+	"github.com/case-fold/gizmo/server"
 	"github.com/NYTimes/gziphandler"
 	"github.com/sirupsen/logrus"
 )

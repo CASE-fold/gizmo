@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/NYTimes/gizmo/server/kit"
+	"github.com/case-fold/gizmo/server/kit"
 	ocontext "golang.org/x/net/context"
 
-	"github.com/NYTimes/gizmo/examples/nyt"
+	"github.com/case-fold/gizmo/examples/nyt"
 )
 
 // GRPC LAYER, add the middleware layer ourselves

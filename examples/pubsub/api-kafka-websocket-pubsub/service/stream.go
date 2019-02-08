@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/NYTimes/gizmo/pubsub"
-	"github.com/NYTimes/gizmo/pubsub/kafka"
-	"github.com/NYTimes/gizmo/server"
+	"github.com/case-fold/gizmo/pubsub"
+	"github.com/case-fold/gizmo/pubsub/kafka"
+	"github.com/case-fold/gizmo/server"
 	"github.com/gorilla/websocket"
 )
 

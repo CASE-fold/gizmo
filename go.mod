@@ -1,4 +1,4 @@
-module github.com/NYTimes/gizmo
+module github.com/case-fold/gizmo
 
 require (
 	cloud.google.com/go v0.35.1

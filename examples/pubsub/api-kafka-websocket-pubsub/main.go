@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/NYTimes/gizmo/config"
-	"github.com/NYTimes/gizmo/examples/pubsub/api-kafka-websocket-pubsub/service"
-	"github.com/NYTimes/gizmo/pubsub"
-	"github.com/NYTimes/gizmo/pubsub/kafka"
-	"github.com/NYTimes/gizmo/server"
+	"github.com/case-fold/gizmo/config"
+	"github.com/case-fold/gizmo/examples/pubsub/api-kafka-websocket-pubsub/service"
+	"github.com/case-fold/gizmo/pubsub"
+	"github.com/case-fold/gizmo/pubsub/kafka"
+	"github.com/case-fold/gizmo/server"
 )
 
 func main() {
